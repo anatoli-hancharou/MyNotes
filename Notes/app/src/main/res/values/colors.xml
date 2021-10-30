@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FAFAFA</color>
+    <color name="grey_0">#747474</color>
+    <color name="card_borders">#694343</color>
+    <color name="search_background">#494848</color>
+    <color name="grey_3">#212121</color>
+    <color name="cardColor">#204A50</color>
+    <color name="background">#A2CFCF</color>
+    <color name="textColor">#C5BFBF</color>
+    <color name="red">#EC0000</color>
+    <color name="green">#00FA00</color>
+    <color name="yellow">#FFD400</color>
+    <color name="popup">#4C4C49</color>
+</resources>

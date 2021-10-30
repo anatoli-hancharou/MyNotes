@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/title_ask"
+        android:title="Title"
+        android:icon="@drawable/ic_down_arrow"/>
+    <item
+        android:id="@+id/title_desk"
+        android:title="Title"
+        android:icon="@drawable/ic_up_arrow"/>
+    <item
+        android:id="@+id/red"
+        android:title="Red"
+        android:icon="@drawable/ic_circle"
+        android:iconTint="@color/red"/>
+    <item
+        android:id="@+id/green"
+        android:title="Green"
+        android:icon="@drawable/ic_circle"
+        android:iconTint="@color/green"/>
+    <item
+        android:id="@+id/yellow"
+        android:title="Yellow"
+        android:icon="@drawable/ic_circle"
+        android:iconTint="@color/yellow"/>
+    <item
+        android:id="@+id/black"
+        android:title="Black"
+        android:icon="@drawable/ic_circle" />
+
+</menu>

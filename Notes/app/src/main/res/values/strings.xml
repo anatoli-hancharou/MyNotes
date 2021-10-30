@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="titleHint">Название</string>
+    <string name="textHint">Текст</string>
+</resources>
